@@ -1,36 +1,34 @@
-<div align="center">
+<h1 align="center">SKRT7 Here</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-#   SKRT7-0day here 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skrt7-0day&label=Profile%20views&color=0e75b6&style=flat" alt="skrt7-0day" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&width=435&lines=Student+&+Developer;Discord+Community+Manager;Passionate+about+Automation" alt="Typing" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skrt7-0day" alt="skrt7-0day" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Web](https://s.skrt7.workers.dev/)
+
+- 🌱 I’m currently learning **Python and JavaScript**
+
+- 🤝 I’m looking for help with [Nah](https://s.skrt7.workers.dev/)
+
+- 👨‍💻 All of my projects are available at [https://s.skrt7.workers.dev/](https://s.skrt7.workers.dev/)
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/monkt nadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monkt nadr" height="30" width="40" /></a>
+<a href="https://instagram.com/skrt7_66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skrt7_66" height="30" width="40" /></a>
+<a href="https://discord.gg/16.0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="16.0m" height="30" width="40" /></a>
 </p>
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,docker,git,linux,bash" alt="Skills" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skrt7-0day&show_icons=true&locale=en&layout=compact" alt="skrt7-0day" /></p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKRT7-0day&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRT7-0day&layout=compact&theme=dark&hide_border=true" alt="Langs" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrt7-0day&show_icons=true&locale=en" alt="skrt7-0day" /></p>
 
----
-
-### 🎯 Current Focus
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Discord Automation** | Advanced bot management | TS / JS |
-| **System Scripts** | Linux & Termux automation | Bash / Python |
-
----
-
-### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SKRT7-0day)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skrt7-0day&" alt="skrt7-0day" /></p>
