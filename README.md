@@ -7,7 +7,7 @@
 </p>
 
 ### 🛠 Tech Stack
-![Skills](https://skillicons,dev/icons?i=ts,js,python,docker,git,linux,bash)
+![Skills](https://skillicons.dev/icons?i=ts,js,python,docker,git,linux,bash)
 
 ---
 
