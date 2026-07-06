@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hello, I'm SKRT7-0day
+#   SKRT7-0day here 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&width=435&lines=Student+&+Developer;Discord+Community+Manager;Passionate+about+Automation" alt="Typing" />
