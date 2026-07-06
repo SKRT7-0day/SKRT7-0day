@@ -1,13 +1,15 @@
 <div align="center">
 
-#  SKRT7-0day here ^^
+# ⚡ Hello, I'm SKRT7-0day
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&width=435&lines=Student+&+Developer;Discord+Community+Manager;Passionate+about+Automation" alt="Typing" />
 </p>
 
 ### 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=ts,js,python,docker,git,linux,bash)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,docker,git,linux,bash" alt="Skills" />
+</p>
 
 ---
 
@@ -32,19 +34,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SKRT7-0day)
 
 </div>
-
-
-<!--
-**SKRT7-0day/SKRT7-0day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
