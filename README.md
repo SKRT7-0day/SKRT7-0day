@@ -70,7 +70,7 @@
 ### <code>Achievements</code>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SKRT7-0day&theme=gitdimmed&no-frame=true&column=4&margin-w=8&margin-h=8&title=PairExtraordinaire,PullShark,YOLO,Starstruck" />
+<img src="https://github-profile-trophy.vercel.app/?username=SKRT7-0day&theme=gitdimmed&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
