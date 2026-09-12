@@ -40,6 +40,13 @@
 <br />
 <b>S</b> — <a href="https://github.com/SKRT7-0day/S">github.com/SKRT7-0day/S</a>
 </div>
+---
+
+### <code>Stats</code>
+
+<div align="center">
+<img src="./stats-badges.svg" width="630" />
+</div>
 
 ---
 
